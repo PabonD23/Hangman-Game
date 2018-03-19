@@ -1,0 +1,44 @@
+header{
+    border: 3px solid black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin: 50px, auto;
+    
+}
+
+.underscore{
+    border: 3px solid black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    height: 150px;
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+    width: 80%;
+
+}
+
+.rightGuess,.wrongGuess{
+    border: 3px solid black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    height: 150px;
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+
+}
+.guessesRemaining{
+    border: 3px solid black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    height: 150px;
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+    width: 80%;
+
+}
